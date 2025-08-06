@@ -1,0 +1,23 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshuak47/react-landing-page.git"
+  },
+  "keywords": [
+    "react",
+    "landing-page"
+  ],
+  "author": "Anshu kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshuak47/react-landing-page/issues"
+  },
+  "homepage": "https://github.com/Anshuak47/react-landing-page#readme",
+  "description": ""
+}
