@@ -2,9 +2,11 @@
   "name": "react-landing-page",
   "version": "1.0.0",
   "description": "Landing page for practice",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [
     "react",
@@ -13,6 +15,10 @@
   ],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
   "devDependencies": {
     "parcel": "^2.15.4"
   }
