@@ -1,0 +1,17 @@
+@import "tailwindcss";
+.nav-items > li.menu-item.nav-link {
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 2px solid #0b7325;
+}
+.nav-items > li.menu-item.enroll-button {
+  margin-right: 5px;
+  margin-left: 5px;
+}
