@@ -21,14 +21,17 @@
     display: none;
   }
   .nav-menu-responsive .nav-items {
-    
     padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid #0b7325;
   }
+
+  .nav-menu-responsive .nav-items .menu-item {
+    margin: 20px;
+  }
 }
 @media screen and (min-width: 768px) {
-  .nav-menu-responsive{
+  .nav-menu-responsive {
     display: none;
   }
   .nav-menu-responsive .nav-items {
