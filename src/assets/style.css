@@ -16,6 +16,18 @@
   margin-left: 5px;
 }
 
+/* Hero section */
+.hero {
+  background: url(./banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero .hero-subtitle,
+.hero .feature-1 {
+  background-color: rgba(189, 189, 189, 0.386);
+}
+/* hero section ends */
 @media screen and (max-width: 767px) {
   .nav-menu {
     display: none;
